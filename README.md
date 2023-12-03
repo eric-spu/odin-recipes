@@ -6,28 +6,16 @@ Welcome to the Recipe Website - Odin! Here, you will find a collection of delici
 
 - [Recipe Website - Odin](#recipe-website---odin)
   - [Our Recipes](#our-recipes)
-    - [Recipe 1](#recipe-1)
-    - [Recipe 2](#recipe-2)
-    - [Recipe 3](#recipe-3)
+    - [Pilau](#pilau)
+    - [Ugali Matumbo](#ugali-matumbo)
+    - [Traditional Githeri](#traditional-githeri)
   - [About](#about)
 
-### Recipe 1
+### Pilau
 
-*Recipe description and ingredients.*
+### Ugali Matumbo
 
-*Recipe directions.*
-
-### Recipe 2
-
-*Recipe description and ingredients.*
-
-*Recipe directions.*
-
-### Recipe 3
-
-*Recipe description and ingredients.*
-
-*Recipe directions.*
+### Traditional Githeri
 
 ## About
 Food enthusiasts who believes in sharing our passion for cooking with others.
