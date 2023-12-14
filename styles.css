@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+*{
+    background-color: aliceblue;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.head{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.head h3{
+    font-size: 20px;
+}
+
+.recipe{
+    margin: auto;
+}
+
+.recipe p{
+    text-align: center;
+}
+
+span img{
+    border-radius: 8px;
+    height: 200px;
+    width: auto;
+}
